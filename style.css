@@ -1,0 +1,8 @@
+.jumbotron {
+    background-color: #add8e6;    
+}
+
+.jumbotron > .container > p {
+    /*color: white;*/
+    font-weight: 300;
+}
